@@ -1,0 +1,80 @@
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+OPR 0 4  // Multiplica os dois valores no topo da pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+OPR 0 4  // Multiplica os dois valores no topo da pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+OPR 0 4  // Multiplica os dois valores no topo da pilha
+OPR 0 5  // Divide os dois valores no topo da pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+
+LOD 0 6  // Carrega o valor do endereço 6 na pilha
+LOD 0 5  // Carrega o valor do endereço 5 na pilha
+LOD 0 4  // Carrega o valor do endereço 4 na pilha
+OPR 0 2  // Soma os dois valores no topo da pilha
+OPR 0 3  // Subtrai os dois valores no topo da pilha
+LOD 0 3  // Carrega o valor do endereço 3 na pilha
+OPR 0 4  // Multiplica os dois valores no topo da pilha
+
